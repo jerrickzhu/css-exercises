@@ -1,0 +1,23 @@
+
+* {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.number {
+    background-color: lightpink;
+}
+
+.number.three {
+    font-size: 24px;
+}
+
+#special {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
